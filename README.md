@@ -1,6 +1,8 @@
 # corrstock
 Generate trading signals through stock correlation deviation
 
+This model is really incomplete. THe backtesting is still on work to compute the optimal value for deviation. When we will have that value we will be able to develop a trading strategy. Actually our model will just show us what stocks are deviating from their historical correlation. We will complete this model as soon as possible by adding a trading strategy to it.
+
 ## Libraries
 
 We will first import the library that we will use in our model:
